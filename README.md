@@ -1,7 +1,8 @@
 ## Our Post
 ### About us
 ```vim
-        Team Name : Maker19
+        Team Name : Maker19 
+        :rage3: :stuck_out_tongue_closed_eyes:
         TEAM LEADER : 钟欣瑞
         TEAM PARTNER : 唐绍武
                        贝托
