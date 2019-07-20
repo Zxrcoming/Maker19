@@ -5,6 +5,8 @@
         TEAM LEADER : 钟欣瑞
         TEAM PARTNER : 唐绍武
                        贝托
+                       陈如孝
+                       肖金诚
                        
 ```
 
@@ -25,9 +27,11 @@ unclear
 We're doing someing excellent
 
 ### Users
-Maybe everone
+Everone living on the earth.
 
 ### How to do it.
+> Preperation           
+
 
 
 
