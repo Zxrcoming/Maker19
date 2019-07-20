@@ -27,7 +27,10 @@ unclear
 We're doing someing excellent
 
 ### Users
-Everone living on the earth.
+Everyone living on the earth.
+```vim
+        this is a project worth trying for everyone often walk across the road.
+```
 
 ### How to do it.
 > Preperation           
