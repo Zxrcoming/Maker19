@@ -58,8 +58,11 @@
   - *We use ***openpose*** as our core of tech,and we use Serial Port to display people on the screen*  
     ![openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/media/pose_face_hands.gif?raw=true)
 
-  - *Because a lot of people used to watching their phones whit heads down when walkacross crosswalk,so we provide light-changable crosswalk which can change to green when Trafic ligh is green and to red when Trafic light is red,then people can easily know when to go and stop*  
+  - *Because a lot of people used to watching their phones whit heads down when walkacross crosswalk,so we provide light-changable crosswalk which can change to green when Trafic ligh is green and to red when Trafic light is red,then people can easily know when to go and stop*    
+
+    **At the same time,the driver can have eyes on the road to remind him not going when the road is green.**
   >well , it's just a small module.
+  
   ![LEDs](http://a3.qpic.cn/psb?/V13beCG51KYd1k/sXDhL0X7RiPuQ3C7KKaBvejP42gP6E1sEArFeKU*Zwc!/c/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=HAtABsAP3AgROUQ!&tl=3&vuin=2536914044&tm=1563688800&sce=60-2-2&rf=0-0)
 
   - *We use some simple material to perform the crosswalk like little LEDs on the board to display the same color of the Trafic Light*
