@@ -71,10 +71,26 @@ Everyone living on the earth.
 
 ### How to do it.
 
-
+- ***Steps***
   - Using Ardiuno MEGE 2560 and 32x32 LEDs to replace the traditional trafic light.
 
   - And we added the opencv tech to display people's movement on our LEDs.
 
   - Also  we use another LEDs to replace the crosswalk road.
+
+- ***Making process***
+  - Preparing the Ardiuno MEGA 2560***(important)***,Jump wires and 32x32 matrix of lights.
+  
+  - Follow the Introduction online about how to arrange the Jump wires on the back of the 32x32 matrix.~~***it's easy***~~
+  
+  - Then use the openpose code to toggle the detection of human behaviour.  
+    here is [openpose repo](https://github.com/CMU-Perceptual-Computing-Lab/openpose).                 
+    
+    ***Please Read it carefully before you start our project***.
+
+  - After using the openpose, use our [Node-serial Code](https://github.com/Zxrcoming/Maker19/blob/master/Node-serial%20Code) to communicate with the Ardiuno MEGA 2560 which is burned with [Ardiuno Code](https://github.com/Zxrcoming/Maker19/blob/master/Ardiuno%20Code).
+  - Then you shell be good to go.  
+  
+  ***wish you good luck***
+
    
