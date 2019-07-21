@@ -70,5 +70,5 @@ Everyone living on the earth.
 
   - And we added the opencv tech to display people's movement on our LEDs.
 
-  -Also  we use another LEDs to replace the crosswalk road.
+  - Also  we use another LEDs to replace the crosswalk road.
    
