@@ -91,7 +91,7 @@
   - Also  we use another LEDs to replace the crosswalk road.
 
 - ***Making process***
-  - Preparing the Ardiuno MEGA 2560***(important)***,Jump wires and 32x32 matrix of lights.  
+  - Preparing the Ardiuno MEGA 2560 ***(important)***,Jump wires and 32x32 matrix of lights.  
   ![wire arrange](http://a1.qpic.cn/psb?/V13beCG51KYd1k/Tr3ZJmCrPg.CGRguhhyJW5kvTlhsCeqQZAxCV82*VS0!/c/dFABAAAAAAAA&ek=1&kp=1&pt=0&bo=QAYcC8AP3AgROUQ!&tl=3&vuin=2536914044&tm=1563688800&sce=60-2-2&rf=0-0)
   
   - Follow the Introduction online about how to arrange the Jump wires on the back of the 32x32 matrix.~~***it's easy***~~
