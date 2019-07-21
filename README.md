@@ -67,7 +67,7 @@ This is a Trafic Light project.
 
 
 ### Users
-Everyone living on the earth.
+>Everyone living on the earth.
 
 ### How to do it.
 
