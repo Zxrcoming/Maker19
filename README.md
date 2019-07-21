@@ -36,6 +36,7 @@
 
 ### Project Description
 
+![image](https://im3.ezgif.com/tmp/ezgif-3-ff1bc3f2346f.gif)
 
 
 This is a Trafic Light project.
