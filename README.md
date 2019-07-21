@@ -42,7 +42,7 @@
 
 This is a Trafic Light project.
 - **In gerneral**
-``vim
+```vim
       We're doing this because we found that
     there're some problems whit the tranditional trafic light
 ```
