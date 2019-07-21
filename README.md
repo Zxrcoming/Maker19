@@ -81,7 +81,7 @@ This is a Trafic Light project.
   - Also  we use another LEDs to replace the crosswalk road.
 
 - ***Making process***
-  - Preparing the Ardiuno MEGA 2560***(important)***,Jump wires and 32x32 matrix of lights.
+  - Preparing the Ardiuno MEGA 2560 ***(important)***,Jump wires and 32x32 matrix of lights.
   
   - Follow the Introduction online about how to arrange the Jump wires on the back of the 32x32 matrix.~~***it's easy***~~
   
