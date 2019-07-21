@@ -42,13 +42,14 @@
 
 This is a Trafic Light project.
 - **In gerneral**
-```vim
+``vim
       We're doing this because we found that
     there're some problems whit the tranditional trafic light
 ```
 ```js
       we will change the way the light behave to people who see it.
-  
+    IN A funning and useful way.
+```
 
 - **Details**
 
