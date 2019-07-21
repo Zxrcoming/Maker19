@@ -36,7 +36,7 @@
 
 ### Project Description
 
-![](https://github.com/Zxrcoming/Maker19/blob/master/Picture/1.gif)
+![](https://github.com/Zxrcoming/Maker19/blob/master/Picture/1.gif) ![](https://github.com/Zxrcoming/Maker19/blob/master/Picture/2.gif)
 
 This is a Trafic Light project.
 - **In gerneral**
