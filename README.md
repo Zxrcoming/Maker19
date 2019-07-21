@@ -36,7 +36,7 @@
 
 ### Project Description
 
-![](https://im4.ezgif.com/tmp/ezgif-4-09317240422c.gif)
+![](https://github.com/Zxrcoming/Maker19/blob/master/Picture/1.gif)
 
 This is a Trafic Light project.
 - **In gerneral**
