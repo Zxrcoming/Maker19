@@ -35,9 +35,9 @@
  ***平安路导***
 
 ### Project Description
-![](https://github.com/Zxrcoming/Maker19/blob/master/img/(2).jpeg)
 
-![image](https://github.com/Zxrcoming/Maker19/blob/master/Picture/2.gif?raw=true)
+<img src="https://github.com/Zxrcoming/Maker19/blob/master/img/(2).jpeg" width="100%" >
+<img src="https://github.com/Zxrcoming/Maker19/blob/master/Picture/2.gif?raw=true" width="100%">
 
 #### This is a Trafic Light project.
 - **In gerneral**
@@ -53,14 +53,19 @@
 - **Details**
 
   - *We use ***openpose*** as our core of tech,and we use Serial Port to display people on the screen*  
-    ![openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/.github/media/pose_face_hands.gif?raw=true)
+  <p align="center">
+        <img src="https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/.github/media/pose_face_hands.gif?raw=true">
+  </p>
+    
 
   - *Because a lot of people used to watching their phones whit heads down when walkacross crosswalk,so we provide light-changable crosswalk which can change to green when Trafic ligh is green and to red when Trafic light is red,then people can easily know when to go and stop*    
 
     **At the same time,the driver can have eyes on the road to remind him not going when the road is green.**
       
   >well , what we did is just a small module.
-  ![LEDs](https://github.com/Zxrcoming/Maker19/blob/master/img/(1).jpeg)
+  <p align="center">
+        <img  src="(https://github.com/Zxrcoming/Maker19/blob/master/img/(1).jpeg" >
+  </p>
 
   - *We use some simple material to perform the crosswalk like little LEDs on the board to display the same color of the Trafic Light*
 
@@ -68,7 +73,10 @@
 
 - **Advantages**
   - ***when the Trafic Light turns red,people may will feel bored when waitting for the green coming,and our product provide a very funny way to comfor people , therefor the Trafic light is not just a Trafic Light, it can capture your image and display it on the screen,although it is just a Matchman(火柴人),but it could be just fun***   
-  ![light](https://github.com/Zxrcoming/Maker19/blob/master/img/(8).jpeg)
+  
+  <p align="center">
+        <img src="(https://github.com/Zxrcoming/Maker19/blob/master/img/(8).jpeg" width="50%">
+  </p>
 
   - ***And our LED crosswalk is audio-visual for people to see directly and to understand in mind what is the remaining time of the walking***
 
@@ -81,7 +89,7 @@
 
 - ***Steps***
   - Using Ardiuno MEGE 2560 and 32x32 LEDs to replace the traditional trafic light.  
-  ![material](https://github.com/Zxrcoming/Maker19/blob/master/img/(4).jpeg)
+   <img src="(https://github.com/Zxrcoming/Maker19/blob/master/img/(4).jpeg" height="500px">
 
   - And we added the openpose tech to display people's movement on our LEDs.
 
@@ -92,7 +100,9 @@
 
 - ***Making process***
   - Preparing the Ardiuno MEGA 2560 ***(important)***,Jump wires and 32x32 matrix of lights.  
-  ![wire arrange](https://github.com/Zxrcoming/Maker19/blob/master/img/(5).jpeg)
+  <p align="center">
+        <img height="500px" src="(https://github.com/Zxrcoming/Maker19/blob/master/img/(5).jpeg">
+  </p>
   
   - Follow the Introduction online about how to arrange the Jump wires on the back of the 32x32 matrix.~~***it's easy***~~
   
