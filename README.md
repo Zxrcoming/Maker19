@@ -1,6 +1,6 @@
 ## 🧐Introduction of Our Making 🧐
 ### 👺About us
-```vim
+```
         Team Name : Maker19
         
         TEAM LEADER : 钟欣瑞
@@ -13,9 +13,12 @@
 
 
 ### The background Story
->🎨This is our Post🎨
-![](https://github.com/Zxrcoming/Maker19/blob/master/img/(9).jpeg)
->😀😘
+🎨This is our Post🎨
+  <p align="center">
+        <img src="https://github.com/Zxrcoming/Maker19/blob/master/img/(9).jpeg" width="500px">
+        😀😘
+  </p>
+
 
 >We're Form Different Coutry and College 🚩🏁  
   But We're together Making our Thing💡  
@@ -36,8 +39,12 @@
 
 ### Project Description
 
-<img src="https://github.com/Zxrcoming/Maker19/blob/master/img/(2).jpeg" width="100%" >
-<img src="https://github.com/Zxrcoming/Maker19/blob/master/Picture/2.gif?raw=true" width="100%">
+<p align="center">
+    <img src="https://github.com/Zxrcoming/Maker19/blob/master/img/(2).jpeg" width="500px" >
+</p>
+<p align="center">
+      <img src="https://github.com/Zxrcoming/Maker19/blob/master/Picture/2.gif?raw=true" width="500px">  
+</p>
 
 #### This is a Trafic Light project.
 - **In gerneral**
@@ -63,7 +70,9 @@
     **At the same time,the driver can have eyes on the road to remind him not going when the road is green.**
       
   >well , what we did is just a small module.
-  ![](https://github.com/Zxrcoming/Maker19/blob/master/img/(1).jpeg)
+  <p align="center">
+        <img src="https://github.com/Zxrcoming/Maker19/blob/master/img/(1).jpeg" width="500px">
+  </p>
 
   - *We use some simple material to perform the crosswalk like little LEDs on the board to display the same color of the Trafic Light*
 
@@ -73,7 +82,7 @@
   - ***when the Trafic Light turns red,people may will feel bored when waitting for the green coming,and our product provide a very funny way to comfor people , therefor the Trafic light is not just a Trafic Light, it can capture your image and display it on the screen,although it is just a Matchman(火柴人),but it could be just fun***   
   
   <p align="center"  >
-        <img src="https://github.com/Zxrcoming/Maker19/blob/master/img/(8).jpeg">
+        <img src="https://github.com/Zxrcoming/Maker19/blob/master/img/(8).jpeg" width="500px">
   </p>
 
   - ***And our LED crosswalk is audio-visual for people to see directly and to understand in mind what is the remaining time of the walking***
@@ -95,7 +104,9 @@
   - Also  we use another LEDs to replace the crosswalk road.
   
   - This is how the project ends
-  ![project](https://github.com/Zxrcoming/Maker19/blob/master/img/(7).jpeg)
+  <p align="center"  >
+        <img src="https://github.com/Zxrcoming/Maker19/blob/master/img/(7).jpeg" width="500px">
+  </p>
 
 - ***Making process***
   - Preparing the Ardiuno MEGA 2560 ***(important)***,Jump wires and 32x32 matrix of lights.  
