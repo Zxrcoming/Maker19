@@ -14,7 +14,7 @@
 
 ### The background Story
 >🎨This is our Post🎨
-![](https://github.com/Zxrcoming/Maker19/blob/master/img/ (2).jpeg)
+![](https://github.com/Zxrcoming/Maker19/blob/master/img/(9).jpeg)
 >😀😘
 
 >We're Form Different Coutry and College 🚩🏁  
@@ -35,10 +35,7 @@
  ***平安路导***
 
 ### Project Description
-![](https://github.com/Zxrcoming/Maker19/blob/master/img/(2).jpeg?raw=true)
-
-
-![image](https://github.com/Zxrcoming/Maker19/blob/master/Picture/1.gif?raw=true)
+![](https://github.com/Zxrcoming/Maker19/blob/master/img/(2).jpeg)
 
 ![image](https://github.com/Zxrcoming/Maker19/blob/master/Picture/2.gif?raw=true)
 
@@ -63,7 +60,7 @@
     **At the same time,the driver can have eyes on the road to remind him not going when the road is green.**
       
   >well , what we did is just a small module.
-  ![LEDs](https://github.com/Zxrcoming/Maker19/blob/master/img/(1).jpeg?raw=true)
+  ![LEDs](https://github.com/Zxrcoming/Maker19/blob/master/img/(1).jpeg)
 
   - *We use some simple material to perform the crosswalk like little LEDs on the board to display the same color of the Trafic Light*
 
@@ -71,7 +68,7 @@
 
 - **Advantages**
   - ***when the Trafic Light turns red,people may will feel bored when waitting for the green coming,and our product provide a very funny way to comfor people , therefor the Trafic light is not just a Trafic Light, it can capture your image and display it on the screen,although it is just a Matchman(火柴人),but it could be just fun***   
-  ![light](http://a1.qpic.cn/psb?/V13beCG51KYd1k/UURiBok.EZQ*WwRgD2mr*LIsogYv.8AfVtg2*2fJ3vU!/c/dFQBAAAAAAAA&ek=1&kp=1&pt=0&bo=HAtABsAP3AgROUQ!&tl=3&vuin=2536914044&tm=1563688800&sce=60-2-2&rf=0-0)
+  ![light](https://github.com/Zxrcoming/Maker19/blob/master/img/(8).jpeg)
 
   - ***And our LED crosswalk is audio-visual for people to see directly and to understand in mind what is the remaining time of the walking***
 
@@ -84,15 +81,18 @@
 
 - ***Steps***
   - Using Ardiuno MEGE 2560 and 32x32 LEDs to replace the traditional trafic light.  
-  ![material](http://a2.qpic.cn/psb?/V13beCG51KYd1k/4Dey9J*KqB2jR3EwdhGQm7zHYlhst*vslu.rTJttKSY!/c/dDUBAAAAAAAA&ek=1&kp=1&pt=0&bo=QAYcC8AP3AgROUQ!&tl=3&vuin=2536914044&tm=1563688800&sce=60-2-2&rf=0-0)
+  ![material](https://github.com/Zxrcoming/Maker19/blob/master/img/(4).jpeg)
 
   - And we added the openpose tech to display people's movement on our LEDs.
 
   - Also  we use another LEDs to replace the crosswalk road.
+  
+  - This is how the project ends
+  ![project](https://github.com/Zxrcoming/Maker19/blob/master/img/(7).jpeg)
 
 - ***Making process***
   - Preparing the Ardiuno MEGA 2560 ***(important)***,Jump wires and 32x32 matrix of lights.  
-  ![wire arrange](http://a1.qpic.cn/psb?/V13beCG51KYd1k/Tr3ZJmCrPg.CGRguhhyJW5kvTlhsCeqQZAxCV82*VS0!/c/dFABAAAAAAAA&ek=1&kp=1&pt=0&bo=QAYcC8AP3AgROUQ!&tl=3&vuin=2536914044&tm=1563688800&sce=60-2-2&rf=0-0)
+  ![wire arrange](https://github.com/Zxrcoming/Maker19/blob/master/img/(5).jpeg)
   
   - Follow the Introduction online about how to arrange the Jump wires on the back of the 32x32 matrix.~~***it's easy***~~
   
