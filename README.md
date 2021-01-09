@@ -14,7 +14,7 @@
 
 ### The background Story
 >🎨This is our Post🎨
-![](https://github.com/Zxrcoming/Maker19/blob/master/img/ (2).jpeg?raw=true)
+![](https://github.com/Zxrcoming/Maker19/blob/master/img/ (2).jpeg)
 >😀😘
 
 >We're Form Different Coutry and College 🚩🏁  
